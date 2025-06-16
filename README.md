@@ -61,8 +61,6 @@ The staking vault contract is at the center of this application, it allows users
 
 <b>The architecture of the application</b> is illustrated in the diagram below :
 
-![staking](https://user-images.githubusercontent.com/83681204/185807295-76ab7ea9-3f46-49bb-bf26-c43fa9de7002.png)
-
 ### User interface
    
 The front end is built with React JS, it allows users to mint new KryptoPunks nfts and stake them in the vault for receiving KPT rewards over time, the app also give a simple admin dashboard for setting minting prices and maximum NFTs minted per tx.
@@ -74,23 +72,7 @@ The front-end is built using the following libraries:
         <li><b>@reduxjs/toolkit & redux-persist:</b> for managing the app states (account, balance, blockchain) </li>
         <li><b>Material UI:</b> used for react components and styles </li>    
       </ul>
-      
-The home page is a modern NFT landing page that explains the KryptoPunks project and it's progression roadmap :
-
-![Capture d’écran 2022-08-17 à 22 36 18](https://user-images.githubusercontent.com/83681204/185249401-0c9ee430-3e8a-46d7-949f-48113f434ceb.png)
-
-The mint page allows user to mint new KryptoPunks and it contains all the information about the NFT collection (total supply, minting cost,...), and the details about the nfts held by the user (items owned, items staked, total reward accumulated,...).
-
-![Capture d’écran 2022-08-17 à 22 48 18](https://user-images.githubusercontent.com/83681204/185249853-36e1c15f-4f26-4aea-a060-604cb56cc52f.png)
-
-On this page the user also finds a list of all the items he owns, which can be directly staked & unstaked from there and claim the reward that was accrued :
-
-![Capture d’écran 2022-08-17 à 22 48 36](https://user-images.githubusercontent.com/83681204/185250186-07ff0242-0c6b-4ff9-9d7a-f9433b85f70f.png)
-
-The dashboard can only be accessed by the nft contract owner from the account window by clicking on the account button in the top of the page, it gives the owner the possibility of withdraw the contract balance, changing nft minting parametres or changing contract state (paused):
-
-![Capture d’écran 2022-08-17 à 22 49 01](https://user-images.githubusercontent.com/83681204/185250309-9166ae4d-8bbb-422f-99d1-4ed9c41d46a5.png)
-
+     
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE GUIDE -->
