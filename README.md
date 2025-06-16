@@ -2,9 +2,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# KryptoPunks NFT Staking Dapp
+# NFT Staking Dapp
 
-This is a modern NFT project, the dapp allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
+This is a modern NFT project, the dapp allows users to mint their NFT and stake them to receive staking rewards in the form of our own ERC20 token.
 
 ### Built With
 
