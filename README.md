@@ -6,10 +6,6 @@
 
 This is a modern NFT project, the dapp allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
 
-<p align="center">
-  <img alt="Dark" src="https://user-images.githubusercontent.com/83681204/185254772-40163a1d-3481-4519-b936-b5093c71e097.png" width="100%">
-</p>
-
 ### Built With
 
 * [Solidity](https://docs.soliditylang.org/)
